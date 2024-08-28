@@ -1,0 +1,2 @@
+125 6 191 6 191 245 125 245 extinguisher 0
+60 7 124 7 124 245 60 245 extinguisher 0

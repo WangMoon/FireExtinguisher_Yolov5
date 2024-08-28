@@ -1,0 +1,2 @@
+37 66 283 66 283 260 37 260 extinguisher 0
+0 6 156 6 156 260 0 260 extinguisher 0

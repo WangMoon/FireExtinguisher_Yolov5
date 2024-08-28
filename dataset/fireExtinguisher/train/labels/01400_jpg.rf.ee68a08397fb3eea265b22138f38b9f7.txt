@@ -1,0 +1,2 @@
+155 0 402 0 402 656 155 656 extinguisher 0
+1 0 204 0 204 622 1 622 extinguisher 0

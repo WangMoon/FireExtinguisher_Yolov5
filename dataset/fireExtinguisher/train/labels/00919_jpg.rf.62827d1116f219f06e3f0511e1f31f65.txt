@@ -1,0 +1,2 @@
+63 38 191 38 191 179 63 179 extinguisher 0
+0 0 130 0 130 179 0 179 extinguisher 0

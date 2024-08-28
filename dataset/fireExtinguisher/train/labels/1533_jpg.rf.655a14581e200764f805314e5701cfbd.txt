@@ -1,0 +1,2 @@
+67 0 697 0 697 532 67 532 extinguisher 0
+60 0 438 0 438 532 60 532 extinguisher 0

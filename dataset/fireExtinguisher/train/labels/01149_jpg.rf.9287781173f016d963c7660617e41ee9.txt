@@ -1,0 +1,3 @@
+395 71 552 71 552 430 395 430 extinguisher 0
+217 0 390 0 390 430 217 430 extinguisher 0
+0 0 182 0 182 430 0 430 extinguisher 0

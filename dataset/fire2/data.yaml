@@ -1,0 +1,8 @@
+path: E:/Code/SafetyRecognition/yolov5/dataset/fire2
+
+train: train/images
+val: valid/images
+test: #test/images
+
+nc: 1
+names: ['extinguisher']

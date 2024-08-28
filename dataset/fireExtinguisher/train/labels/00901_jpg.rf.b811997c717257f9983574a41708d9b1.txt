@@ -1,0 +1,2 @@
+70 93 129 93 129 319 70 319 extinguisher 0
+8 156 81 156 81 328 8 328 extinguisher 0

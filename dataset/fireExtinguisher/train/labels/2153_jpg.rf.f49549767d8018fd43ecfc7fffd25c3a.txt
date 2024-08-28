@@ -1,0 +1,2 @@
+88 48 799 48 799 532 88 532 extinguisher 0
+0 9 437 9 437 532 0 532 extinguisher 0

@@ -1,0 +1,2 @@
+6 150 658 150 658 529 6 529 extinguisher 0
+0 0 412 0 412 529 0 529 extinguisher 0

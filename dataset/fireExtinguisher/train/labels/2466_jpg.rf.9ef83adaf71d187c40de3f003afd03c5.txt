@@ -1,0 +1,2 @@
+0 144 653 144 653 529 0 529 extinguisher 0
+0 0 428 0 428 529 0 529 extinguisher 0

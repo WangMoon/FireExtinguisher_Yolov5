@@ -1,0 +1,2 @@
+308 44 625 44 625 747 308 747 extinguisher 0
+0 0 331 0 331 747 0 747 extinguisher 0

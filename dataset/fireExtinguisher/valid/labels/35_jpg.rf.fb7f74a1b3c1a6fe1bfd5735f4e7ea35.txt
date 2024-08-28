@@ -1,0 +1,2 @@
+180 1 256 1 256 279 180 279 extinguisher 0
+43 2 130 2 130 274 43 274 extinguisher 0

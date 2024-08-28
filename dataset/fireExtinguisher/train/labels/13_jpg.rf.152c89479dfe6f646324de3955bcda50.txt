@@ -1,0 +1,2 @@
+294 3 530 3 530 470 294 470 extinguisher 0
+0 12 279 12 279 523 0 523 extinguisher 0

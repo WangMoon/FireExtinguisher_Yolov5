@@ -1,0 +1,2 @@
+351 0 631 0 631 638 351 638 extinguisher 0
+41 0 319 0 319 639 41 639 extinguisher 0

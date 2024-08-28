@@ -1,0 +1,2 @@
+88 12 299 12 299 299 88 299 extinguisher 0
+40 75 98 75 98 240 40 240 extinguisher 0

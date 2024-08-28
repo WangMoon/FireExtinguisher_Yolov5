@@ -1,0 +1,3 @@
+0 22 84 22 84 213 0 213 extinguisher 0
+130 23 230 23 230 213 130 213 extinguisher 0
+234 5 338 5 338 213 234 213 extinguisher 0

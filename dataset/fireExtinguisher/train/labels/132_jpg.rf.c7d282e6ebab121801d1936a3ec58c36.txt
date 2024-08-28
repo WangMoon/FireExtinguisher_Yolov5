@@ -1,0 +1,2 @@
+165 2 291 2 291 299 165 299 extinguisher 0
+0 0 149 0 149 297 0 297 extinguisher 0

@@ -1,0 +1,2 @@
+320 0 647 0 647 970 320 970 extinguisher 0
+1 0 409 0 409 952 1 952 extinguisher 0

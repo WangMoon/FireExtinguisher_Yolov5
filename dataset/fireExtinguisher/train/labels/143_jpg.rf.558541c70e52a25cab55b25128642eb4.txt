@@ -1,0 +1,2 @@
+141 5 299 5 299 224 141 224 extinguisher 0
+30 7 134 7 134 219 30 219 extinguisher 0

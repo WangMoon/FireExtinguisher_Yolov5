@@ -1,0 +1,2 @@
+323 0 647 0 647 968 323 968 extinguisher 0
+0 0 409 0 409 955 0 955 extinguisher 0

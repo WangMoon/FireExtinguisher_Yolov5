@@ -1,0 +1,3 @@
+167 8 240 8 240 160 167 160 extinguisher 0
+127 11 170 11 170 157 127 157 extinguisher 0
+58 8 128 8 128 161 58 161 extinguisher 0

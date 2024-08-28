@@ -1,0 +1,4 @@
+359 0 502 0 502 219 359 219 extinguisher 0
+273 93 625 93 625 502 273 502 extinguisher 0
+0 6 64 6 64 333 0 333 extinguisher 0
+9 0 233 0 233 502 9 502 extinguisher 0

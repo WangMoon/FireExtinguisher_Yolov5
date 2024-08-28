@@ -1,0 +1,3 @@
+95 208 667 208 667 529 95 529 extinguisher 0
+158 1 552 1 552 529 158 529 extinguisher 0
+0 0 324 0 324 472 0 472 extinguisher 0

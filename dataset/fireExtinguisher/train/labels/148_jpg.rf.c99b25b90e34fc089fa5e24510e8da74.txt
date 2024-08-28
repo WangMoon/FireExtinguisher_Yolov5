@@ -1,0 +1,2 @@
+89 170 295 170 295 292 89 292 extinguisher 0
+4 6 118 6 118 259 4 259 extinguisher 0

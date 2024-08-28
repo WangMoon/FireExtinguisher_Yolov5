@@ -1,0 +1,2 @@
+0 0 456 0 456 529 0 529 extinguisher 0
+47 0 943 0 943 528 47 528 extinguisher 0

@@ -1,0 +1,2 @@
+167 0 543 0 543 901 167 901 extinguisher 0
+0 16 288 16 288 849 0 849 extinguisher 0

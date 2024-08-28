@@ -1,0 +1,2 @@
+0 277 145 277 145 608 0 608 extinguisher 0
+3 16 137 16 137 265 3 265 extinguisher 0

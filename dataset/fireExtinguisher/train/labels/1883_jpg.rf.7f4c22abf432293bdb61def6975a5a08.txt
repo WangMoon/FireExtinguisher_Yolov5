@@ -1,0 +1,3 @@
+72 96 369 96 369 413 72 413 extinguisher 0
+0 78 178 78 178 413 0 413 extinguisher 0
+155 75 425 75 425 413 155 413 extinguisher 0

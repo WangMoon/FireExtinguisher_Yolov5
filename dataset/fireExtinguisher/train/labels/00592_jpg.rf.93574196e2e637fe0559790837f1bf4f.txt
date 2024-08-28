@@ -1,0 +1,2 @@
+143 0 235 0 235 489 143 489 extinguisher 0
+46 9 131 9 131 496 46 496 extinguisher 0

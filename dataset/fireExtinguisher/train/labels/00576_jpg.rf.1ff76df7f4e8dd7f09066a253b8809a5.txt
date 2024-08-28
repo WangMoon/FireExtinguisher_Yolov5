@@ -1,0 +1,3 @@
+332 26 476 26 476 364 332 364 extinguisher 0
+177 0 323 0 323 366 177 366 extinguisher 0
+5 4 156 4 156 373 5 373 extinguisher 0
